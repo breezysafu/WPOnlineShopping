@@ -1,0 +1,14 @@
+2019-05-13T13:13:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\elementor\includes\elements\section.php on line 4
+
+2019-05-13T13:14:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\woocommerce\includes\api\v2\class-wc-rest-products-v2-controller.php on line 19
+
+2019-05-13T13:16:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\ocean-extra\includes\widgets\about-me.php on line 9
+
+2019-05-13T13:16:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\ocean-extra\includes\widgets\about-me.php on line 9
+
+2019-05-13T13:16:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\woocommerce\includes\api\v2\class-wc-rest-product-variations-v2-controller.php on line 19
+
+2019-05-13T13:18:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\ocean-extra\includes\widgets\social-share.php on line 9
+
+2019-05-13T13:19:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\woocommerce\includes\emails\class-wc-email-cancelled-order.php on line 8
+

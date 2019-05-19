@@ -1,0 +1,12 @@
+2019-05-15T08:05:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\ocean-extra\includes\widgets\custom-menu.php on line 9
+
+2019-05-15T09:43:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\elementor-addon-widgets\vendor\codeinwp\elementor-extra-widgets\widgets\woo\products-categories.php on line 8
+
+2019-05-15T10:09:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-includes\pluggable-deprecated.php on line 18
+
+2019-05-15T10:11:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-assets.php on line 9
+
+2019-05-15T11:23:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_wpPostStore.php on line 6
+
+2019-05-15T11:29:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\themes\oceanwp\index.php on line 15
+

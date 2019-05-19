@@ -1,0 +1,26 @@
+2019-05-14T05:41:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\elementor\includes\elements\section.php on line 4
+
+2019-05-14T06:12:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-05-14T06:12:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-05-14T06:14:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-05-14T06:14:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-05-14T06:14:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\custom-sidebars\inc\external\wpmu-lib\inc\class-thelib.php on line 146
+
+2019-05-14T06:14:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-05-14T06:14:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-05-14T06:14:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-includes\class-wp-widget.php on line 167
+
+2019-05-14T09:11:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\elementor\includes\user.php on line 6
+
+2019-05-14T09:19:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\contact-form-7\modules\date.php on line 9
+
+2019-05-14T09:21:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-admin\includes\template.php on line 12
+
+2019-05-14T10:08:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\ocean-extra\includes\widgets\custom-menu.php on line 9
+

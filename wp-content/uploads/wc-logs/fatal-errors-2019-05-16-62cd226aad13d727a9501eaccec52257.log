@@ -1,0 +1,10 @@
+2019-05-16T06:30:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\woo-product-variation-swatches\app\Controllers\Hooks.php on line 8
+
+2019-05-16T06:33:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-content\plugins\elementor\includes\widgets\video.php on line 6
+
+2019-05-16T06:34:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-05-16T06:36:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-05-16T06:42:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WordPress\OnlineShopping\wp-includes\Requests\Transport\cURL.php on line 163
+
